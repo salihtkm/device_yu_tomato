@@ -38,7 +38,7 @@ $(call inherit-product, vendor/yu/tomato/tomato-vendor.mk)
 PRODUCT_PACKAGES +=\
 MiXplorer \
 Markup \
-NexusLauncher
+NexusLauncher 
 
 # Healthd packages
 PRODUCT_PACKAGES += \
